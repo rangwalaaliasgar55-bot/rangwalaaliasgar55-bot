@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aliasgar Rangwala 👋
 
-<!--
-**rangwalaaliasgar55-bot/rangwalaaliasgar55-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building startups, web apps and AI-powered products from Indore, India. I care about cybersecurity, automation and software that solves real-world problems — and I ship in public.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[SocialBot](https://github.com/rangwalaaliasgar55-bot/socialbot)** — open-source social media scheduling & automation bot: post, schedule, auto-engage and analyze 13+ platforms, with background agents and AI-generated content
+- **[FocusArx](https://github.com/rangwalaaliasgar55-bot/focusarx)** — AI-powered productivity platform helping students and professionals reach peak cognitive performance
+- **[GemAir](https://github.com/rangwalaaliasgar55-bot/GemAir)** — free, open-source, emotionally intelligent personal AI companion for your PC
+- **[VisionFold Creative](https://github.com/rangwalaaliasgar55-bot/VisionFoldCreative)** — studio software platform
+
+## Tech I use
+
+Python · FastAPI · TypeScript · React / Next.js · Node.js · SQLite / PostgreSQL · Docker · AI & LLM integrations
+
+## Let's connect
+
+- 🔗 [focusarx.site](https://focusarx.site)
+- 💼 Open to collaboration on automation, AI products and solo-founder tooling
