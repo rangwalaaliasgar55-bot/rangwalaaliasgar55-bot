@@ -42,17 +42,11 @@
 
 ---
 
-## 🏆 GitHub achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rangwalaaliasgar55-bot&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
-</p>
-
 ## 📊 Stats & activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rangwalaaliasgar55-bot&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangwalaaliasgar55-bot&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=rangwalaaliasgar55-bot&theme=github-dark&hide_border=true" alt="Streak" />
 </p>
 
