@@ -1,100 +1,91 @@
 <div align="center">
 
-![3D Header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=FF006E,8338EC,3A86FF,06FFA5&height=300&section=header&fontSize=80&fontAlignY=60&text=ALIASGAR&desc=3D%20Visionary%20Builder&descSize=30&descAlign=center&fontColor=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=✨+Crafting+Immersive+3D+Web+Experiences;🌌+WebGL+%26+Three.js+Visionary;🚀+Building+Interactive+Universes;💫+Next-Gen+Digital+Spaces;🎮+3D+Gaming+%26+Metaverse+Builder;🔮+AI+meets+3D+Graphics" alt="Typing SVG" />
+<a href="https://rangwalaaliasgar55-bot.github.io/rangwalaaliasgar55-bot/">
+  <img src="./assets/hero.svg" alt="Aliasgar Rangwala — 3D web engineer. React, Three.js, WebGL." />
 </a>
 
-</div>
+<a href="https://rangwalaaliasgar55-bot.github.io/rangwalaaliasgar55-bot/">
+  <img src="./assets/btn-live.svg" alt="Launch the live 3D experience" />
+</a>
 
----
+<a href="https://github.com/rangwalaaliasgar55-bot"><img src="./assets/btn-github.svg" alt="GitHub profile" /></a>
+<a href="https://skyline.github.com/rangwalaaliasgar55-bot/2026"><img src="./assets/btn-skyline.svg" alt="3D contribution skyline" /></a>
+<a href="#-how-this-readme-is-made"><img src="./assets/btn-source.svg" alt="How this README is built" /></a>
 
-## 🌐 3D & Graphics Specialization
+<img src="./assets/divider.svg" alt="" />
 
-<div align="center">
+<img src="./assets/stack.svg" alt="Tech stack orbiting in 3D: React, Three.js, TypeScript, WebGL, Next.js, Tailwind, Node.js, Blender, Python, Gemini, Vite" />
 
-### 3D Visualization & WebGL
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org)
-[![Babylon.js](https://img.shields.io/badge/Babylon.js-1B1B1B?style=for-the-badge&logo=babylondotjs&logoColor=white)](https://www.babylonjs.com/)
-[![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)](https://khronos.org)
-[![Canvas API](https://img.shields.io/badge/Canvas%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+<img src="./assets/divider.svg" alt="" />
 
-### Frontend Excellence
-[![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+<img src="./assets/projects.svg" alt="Flagship builds: FocusArx, GemAir, VisionFold, SocialBot" />
 
-### Backend & AI
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+<img src="./assets/divider.svg" alt="" />
 
-</div>
+<img src="./profile/stats.svg" height="168" alt="GitHub stats" />
+<img src="./profile/top-langs.svg" height="168" alt="Most used languages" />
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangwalaaliasgar55-bot/rangwalaaliasgar55-bot/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rangwalaaliasgar55-bot/rangwalaaliasgar55-bot/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rangwalaaliasgar55-bot/rangwalaaliasgar55-bot/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</picture>
 
-## 🎮 Flagship 3D Projects
+<img src="./assets/wave.svg" alt="Animated isometric contribution field" />
 
-<div align="center">
-
-| Project | 3D Tech | Experience |
-|---------|---------|------------|
-| **FocusArx** | Three.js, React 19, WebGL | 🌌 Immersive Deep Work OS |
-| **GemAir** | Canvas, Real-time Visualization | 🧠 AI Companion with 3D UI |
-| **VisionFold Creative** | Next.js, 3D Portfolio | 🎬 Cinematic Experiences |
-| **SocialBot** | Real-time Analytics Dashboards | 📊 Live Data Visualization |
+<img src="./assets/footer.svg" alt="Built with love from Indore, India" />
 
 </div>
 
----
+<h2 align="center">🧊 How this README is made</h2>
 
 <div align="center">
-
-![3D Stats](./profile/stats.svg)
-![Languages](./profile/top-langs.svg)
-
+<a href="./web"><img src="./assets/btn-stack.svg" alt="The stack behind this page" /></a>
 </div>
 
+<br/>
+
+> Every graphic above is a **React component** rendered to a self-hosted animated SVG — no badge
+> services, nothing that can 404, and real 3D baked in: `three.js` projects each rotating mesh
+> through a perspective camera at build time and the frames ship as SMIL keyframes.
+> The same `profile.ts` data also drives the live React Three Fiber site.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`/web` — the live 3D site**
+
+```bash
+cd web
+npm install
+npm run dev      # React 19 + R3F + postprocessing
+npm run check    # types → headless scene test → build
+```
+
+A scroll-driven camera flies down four levels: a distorting crystal, an orbiting
+toolkit, one platonic solid per project, and a rippling cube field — with bloom,
+a WebGL-less fallback and a headless smoke test so it can never ship blank.
+
+</td>
+<td width="50%" valign="top">
+
+**`/assets` — the README artwork**
+
+```bash
+cd web
+npm run assets       # render ../assets/*.svg
+npm run assets:png   # + PNG previews for review
+```
+
+Text is compiled to vector outlines (no font downloads, identical on every
+machine), icons come from Simple Icons, and GitHub Actions re-renders the set
+whenever the data or components change.
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rangwalaaliasgar55-bot&theme=github-dark&hide_border=true&background=0D1117&currStreakLabel=00d9ff&fire=FF006E&ring=00d9ff&dates=8338EC)](https://github.com/rangwalaaliasgar55-bot)
-
-</div>
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rangwalaaliasgar55-bot&theme=react-dark&hide_border=true&area=true&point=00d9ff&line=8338EC&bg_color=0D1117)
-
-</div>
-
----
-
-## 🗓️ 3D Contribution Skyline
-
-<div align="center">
-
-[![3D Skyline 2026](https://img.shields.io/badge/🌆%20View%203D%20Skyline-FF006E?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/rangwalaaliasgar55-bot/2026)
-
-</div>
-
----
-
-<div align="center">
-
-![3D Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF006E,8338EC,3A86FF,06FFA5&height=150&section=footer&reverseDirection=true)
-
-<p>
-  <sub>🌌 Building immersive digital futures • 3D-First mindset • Shipping innovation</sub>
-  <br/>
-  <sub>Crafted with ❤️ and ☕ from Indore, India</sub>
-</p>
-
+<sub><b>React 19</b> · <b>Three.js</b> · <b>React Three Fiber</b> · <b>TypeScript</b> · <b>Vite</b> · <b>GitHub Actions</b></sub>
 </div>
